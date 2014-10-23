@@ -34,6 +34,11 @@ public class Calc {
         return Math.tan(b);
                 
     } 
+      static double Raiz(double a, double b)
+    {
+        return Math.sqrt(a);
+                
+    } 
       
        public static void main(String[] args) {
         
