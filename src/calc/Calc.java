@@ -29,8 +29,12 @@ public class Calc {
         return Math.sin(b);
                 
     } 
+      static double tan(double a, double b)
+    {
+        return Math.tan(b);
+                
+    } 
       
-            
        public static void main(String[] args) {
         
     //los achivos en color verde son colores nuevos
