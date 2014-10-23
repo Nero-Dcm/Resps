@@ -20,11 +20,20 @@ public class Calc {
     {
         return a / b;
     } 
+      static double cos(double a, double b)
+    {
+        return Math.cos(b);
+    } 
+      static double sen(double a, double b)
+    {
+        return Math.sin(b);
+                
+    } 
+      
             
-            public static void main(String[] args) {
+       public static void main(String[] args) {
         
     //los achivos en color verde son colores nuevos
       
 }
-     
-    }
+}
