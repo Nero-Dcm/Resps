@@ -11,6 +11,14 @@ public class Calc {
     static double resta(double a, double b)
     {
         return a - b;
+    }
+     static double multiplicacion(double a, double b)
+    {
+        return a * b;
+    } 
+      static double divicion(double a, double b)
+    {
+        return a / b;
     } 
             
             public static void main(String[] args) {
