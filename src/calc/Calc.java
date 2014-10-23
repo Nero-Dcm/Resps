@@ -11,8 +11,7 @@ public class Calc {
     static double resta(double a, double b)
     {
         return a - b;
-    }
-    static double 
+    } 
             
             public static void main(String[] args) {
         
